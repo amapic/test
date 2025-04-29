@@ -1,7 +1,7 @@
 export const socialNetworks = {
   "facebook": {
-    "name": "facebook",
-    "file": "com.facebookk.katana",
+    "name": "facebook2",
+    "file": "com.facebook.katana",
     "id": 182,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Facebook.svg"
   },
