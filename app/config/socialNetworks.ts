@@ -1,6 +1,6 @@
 export const socialNetworks = {
   "facebook": {
-    "name": "facebook2",
+    "name": "facebook",
     "file": "com.facebook.katana",
     "id": 182,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Facebook.svg"
@@ -33,6 +33,12 @@ export const socialNetworks = {
     "name": "bluesky",
     "file": "xyz.blueskyweb.app",
     "id": 7763,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg"
+  },
+  "discord": {
+    "name": "discord",
+    "file": "com_discord",
+    "id": 536,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg"
   }
 };
