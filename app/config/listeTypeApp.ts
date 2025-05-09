@@ -1,4 +1,9 @@
 export const ListeTypeApp = {
+  "hf": {
+    name: "hf",
+    url: "hf",
+    file: "hf",
+  },
   "testtt": {
     name: "testtt",
     url: "testttt",
