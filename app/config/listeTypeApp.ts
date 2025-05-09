@@ -4,5 +4,4 @@ export const ListeTypeApp = {
     url: "testt",
     file: "testt",
   },
-  // ... existing entries ...
 };
