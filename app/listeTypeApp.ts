@@ -1,8 +1,8 @@
 export const ListeTypeApp = {
-  "banque": {
-    name: "banque",
-    url: "banque",
-    file: "banque",
+  "banque2": {
+    name: "banque2",
+    url: "banque2",
+    file: "banque2",
   },
   "testtt": {
     name: "testtt",
