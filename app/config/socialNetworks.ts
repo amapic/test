@@ -1,7 +1,7 @@
-export const sport = {
+export const socialNetworks = {
   "facebook": {
-    "name": "facebook",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Tiktok_logo_text.svg"
+    "name": "facebook2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Facebook.svg"
   },
   "tiktok": {
     "name": "tiktok",
